@@ -7,6 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Start working
+- Fork https://github.com/Warespace/Warespace-laravel-jetstream-inertia-vite-boilerplate
+- Clone to your System
+- edit `.env` file and change to `DB_HOST=127.0.0.1`
+```    
+    cd Warespace-laravel-jetstream-inertia-vite-boilerplate
+    composer update
+    composer install
+    npm install
+    ./vendor/bin/sail up
+    php artisan migrate
+    npm run dev
+    php artisan serve 
+```
+
+
+### Note: `npm run dev` start dev server at port 3000. This is a bridge to `php artisan serve` at port 8000. Open http://localhost:8000/ in browser only.
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
