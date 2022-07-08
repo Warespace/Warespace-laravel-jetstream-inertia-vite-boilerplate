@@ -22,7 +22,7 @@
 
 ####  _Windows only_
 - [WSL 2](https://docs.microsoft.com/de-de/windows/wsl/install)
-- [Terminal (otional)](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE)
+- [Terminal (optional)](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE)
 
 ## Start working
 
