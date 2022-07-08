@@ -24,6 +24,8 @@
 - [WSL 2](https://docs.microsoft.com/de-de/windows/wsl/install)
 - [Terminal (otional)](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE)
 
+## Start working
+
 - Fork https://github.com/Warespace/Warespace-laravel-jetstream-inertia-vite-boilerplate
 - Clone to your System
 - edit `.env` file and change to `DB_HOST=127.0.0.1`
