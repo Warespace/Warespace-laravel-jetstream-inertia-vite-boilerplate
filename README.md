@@ -7,7 +7,23 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Start working
+## Requirements
+
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [PHP](https://git-scm.com/)
+- [Git](https://git-scm.com/)
+- [Node](https://nodejs.org/en/)
+- [Composer](https://getcomposer.org/download/)
+- [Vapor CLI](https://docs.vapor.build/1.0/introduction.html#installing-the-vapor-cli)
+
+## Optional
+- [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+- [Postman](https://www.postman.com/downloads/)
+
+####  _Windows only_
+- [WSL 2](https://docs.microsoft.com/de-de/windows/wsl/install)
+- [Terminal (otional)](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=de-de&gl=DE)
+
 - Fork https://github.com/Warespace/Warespace-laravel-jetstream-inertia-vite-boilerplate
 - Clone to your System
 - edit `.env` file and change to `DB_HOST=127.0.0.1`
